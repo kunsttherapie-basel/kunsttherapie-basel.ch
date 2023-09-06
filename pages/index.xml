@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Kunsttherapie Basel</title>
+    <link>http://localhost:1313/pages/</link>
+    <description>Recent content in Pages on Kunsttherapie Basel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Thu, 06 Dec 2018 09:29:16 +1000</lastBuildDate><atom:link href="http://localhost:1313/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fachrichtungen</title>
+      <link>http://localhost:1313/fachrichtungen/</link>
+      <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
+      
+      <guid>http://localhost:1313/fachrichtungen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kontakt</title>
+      <link>http://localhost:1313/kontakt/</link>
+      <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
+      
+      <guid>http://localhost:1313/kontakt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kunstorientierte Supervision</title>
+      <link>http://localhost:1313/supervision/</link>
+      <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
+      
+      <guid>http://localhost:1313/supervision/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
