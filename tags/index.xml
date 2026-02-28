@@ -4,7 +4,8 @@
     <title>Tags on Kunsttherapie Basel</title>
     <link>https://kunsttherapie-basel.ch/tags/</link>
     <description>Recent content in Tags on Kunsttherapie Basel</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>de-de</language><atom:link href="https://kunsttherapie-basel.ch/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>de-de</language>
+    <atom:link href="https://kunsttherapie-basel.ch/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
